@@ -1,0 +1,2 @@
+# arcbot
+Script Bot ArcBot
